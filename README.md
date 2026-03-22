@@ -42,7 +42,7 @@
 
             <p style="font-size:12px;">Tutorial de Acesso - SUAP</p>
 
-            <!-- YOUTUBE SIMULADO (IGUAL AO PRINT) -->
+            <!-- YOUTUBE SIMULADO -->
             <a href="https://www.youtube.com/" target="_blank">
                 <div style="
                     width:250px;
