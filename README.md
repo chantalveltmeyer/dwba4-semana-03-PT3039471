@@ -9,7 +9,7 @@
     <div style="width:500px; margin:auto; background:white; padding:20px;">
 
         <!-- LOGO -->
-        <img src="https://raw.githubusercontent.com/DWBA4/dwba4_semana_imagens/master/ifsp.png" width="200">
+        <img src="https://raw.githubusercontent.com/DWBA4/dwba4_semana_imagens/master/Logo.jpg" width="200">
 
         <!-- EVENTOS -->
         <h5>Eventos</h5>
